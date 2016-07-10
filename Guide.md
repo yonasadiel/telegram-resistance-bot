@@ -17,7 +17,7 @@ Glosari | Penjelasan
 
 Game dibagi menjadi 5 `Pemberontakan`. Setiap `Pemberontakan` dipimpin oleh seorang `Leader` (dipilih secara acak dari `Pemain`). Setiap `Pemberontakan` dibagi menjadi 3 tahap:
 
-1. **Penentuan `Eksekutor` ** : 
+1. ** Penentuan `Eksekutor` ** : 
 `Leader` berhak menentukan `Eksekutor`. `Leader` sendiri tidak harus menjadi `Eksekutor`. `Leader` boleh berdiskusi dengan `Pemain` mengenai siapa yang menjadi `Eksekutor`. Sesudah ditentukan, `Pemberontakan` masuk ke tahap kedua.
 
 2. **Voting** : 
