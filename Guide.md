@@ -3,7 +3,8 @@ Salam **PEMBERONTAK**! ... atau mungkin kamu **MATA-MATA**!?
 Game ini dimainkan oleh 5-10 orang. `Pemberontak` bertindak sebagai aktivis pemberontakan untuk menurunkan harga BBM (atau legalisasi ganja, atau apa saja lah, ga penting). Namun, pemerintah dengan sigapnya mengirimkan beberapa `Mata-mata` untuk menjadi Pemain. Nah, mampukah kalian memenangkan game ini?
 
 Glosarium:
-Golsari | Penjelasan
+
+Glosari | Penjelasan
 --------|-----------
 `Pemain` | user yang terdaftar dalam game, terdiri dari `Pemberontak` dan `Mata-mata`.
 `Pemberontak` | user yang diberi peran "Pemberontak".
@@ -42,6 +43,10 @@ Jumlah `Pemain`    | 5 | 6 | 7 | 8 | 9 | 10
 
 * = butuh 2 "Gagalkan" supaya Pemberontakan gagal.
 
+
+
 Catatan lain:
-1. Catchy nya game ini, `Mata-mata` bisa berpura-pura menjadi `Pemberontak` dan masing-masing dari `Pemberontak` tidak bisa percaya siapapun selain dirinya sendiri.
-2. 
+
+1. Game ini diadaptasi dari "Resistance" atau "Avalon".
+
+2. Catchy nya game ini, `Mata-mata` bisa berpura-pura menjadi `Pemberontak` dan masing-masing dari `Pemberontak` tidak bisa percaya siapapun selain dirinya sendiri.  
