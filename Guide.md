@@ -17,14 +17,14 @@ Glosari | Penjelasan
 
 Game dibagi menjadi 5 `Pemberontakan`. Setiap `Pemberontakan` dipimpin oleh seorang `Leader` (dipilih secara acak dari `Pemain`). Setiap `Pemberontakan` dibagi menjadi 3 tahap:
 
-1. ** Penentuan `Eksekutor` ** : 
+1. **Penentuan `Eksekutor`** : 
 `Leader` berhak menentukan `Eksekutor`. `Leader` sendiri tidak harus menjadi `Eksekutor`. `Leader` boleh berdiskusi dengan `Pemain` mengenai siapa yang menjadi `Eksekutor`. Sesudah ditentukan, `Pemberontakan` masuk ke tahap kedua.
 
 2. **Voting** : 
 Semua `Pemain` melakukan `Vote`. Jika `Pemberontak` curiga ada `Mata-mata` di dalam `Eksekutor`, `Pemberontak` boleh `Vote` "Tidak Setuju". Jika `Mata-mata` merasa terancam kalah, `Mata-mata` boleh `Vote` "Tidak Setuju". Hasil `vote` akan diumumkan. Jika `Vote` "Setuju" lebih dari setengah jumlah `Pemain`, masuk ke tahap ketiga. Namun, apabila kurang, `Leader` diganti dan kembali pada tahap pertama.
 
 3. **`Eksekusi`** : 
-Para `Eksekutor` harus melakukan `Eksekusi`. `Pemberontak` pasti memilih "Sukseskan", sebab `Pemberontak` selalu ingin `Pemberontakan` berhasil. Sedangkan, `Mata-mata` bisa memilih "Gagalkan" supaya `Pemberontakan` gagal atau "Sukseskan" supaya dirinya tidak dicurigai. Jika jumlah semua `Pemberontak` memilih "Sukseskan" atau tidak ada `Pemberontak`, maka `Pemberontakan` berhasil. Jika ada satu saja "Gagalkan", maka `Pemberontakan` gagal.
+Para `Eksekutor` harus melakukan `Eksekusi`. `Pemberontak` pasti memilih "Sukseskan", sebab `Pemberontak` selalu ingin `Pemberontakan` berhasil. Sedangkan, `Mata-mata` bisa memilih "Gagalkan" supaya `Pemberontakan` gagal atau "Sukseskan" supaya dirinya tidak dicurigai. Jika semua `Mata-mata` memilih "Sukseskan" atau tidak ada `Mata-mata`, maka `Pemberontakan` berhasil. Jika ada satu saja "Gagalkan", maka `Pemberontakan` gagal.
 
 Terdapat 5 kali `Pemberontakan`. Jika 3 dari `Pemberontakan` berhasil, `Pemberontak` menang. Jika tidak, maka `Mata-mata` menang. Pembagian peran `Pemain` dan jumlah `Eksekutor` per `Pemberontakan` adalah sebagai berikut:
 
