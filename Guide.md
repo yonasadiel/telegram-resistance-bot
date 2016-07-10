@@ -7,8 +7,8 @@ Glosarium:
 Glosari | Penjelasan
 --------|-----------
 `Pemain` | user yang terdaftar dalam game, terdiri dari `Pemberontak` dan `Mata-mata`.
-`Pemberontak` | user yang diberi peran "Pemberontak".
-`Mata-mata` | user yang diberi peran "Mata-mata".
+`Pemberontak` | user yang diberi peran "Pemberontak". `Pemberontok` tidak tahu siapa sesama `Pemberontak`.
+`Mata-mata` | user yang diberi peran "Mata-mata". `Mata-mata` tahu siapa sesama `Mata-mata`.
 `Leader` | `Pemain` yang menentukan siapa saja `Pemain` yang menjadi `Eksekutor`. `Leader` dipilih secara acak.
 `Pemberontakan` | aksi yang dilakukan sebanyak lima kali. Disebut juga sebagai ronde.
 `Eksekutor` | `Pemain` yang akan melakukan `Eksekusi`.
